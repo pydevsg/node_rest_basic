@@ -9,7 +9,7 @@
   "author": "SG",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.1",
-    "express": "^4.17.3"
+    "body-parser": "^2.3.0",
+    "express": "^5.2.1"
   }
 }
